@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>monika.chr</title>
+</head>
+<body>
+<iframe name="iframe" src="monika.txt" hidden></iframe>
+</pre>
+</body>
+<script type="text/javascript">
+    function b64e(str){return btoa(unescape(encodeURIComponent(str)));}
+    function b64d(str){return decodeURIComponent(escape(atob(str)));}
+    window.onload=function(){document.write('<pre style="white-space: pre-wrap">'+b64d(iframe.document.body.innerText)+'</pre>');}
+</script>
+</html>

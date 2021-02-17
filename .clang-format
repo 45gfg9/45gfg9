@@ -1,0 +1,17 @@
+Language: Cpp
+AlignEscapedNewlines: Left
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: Inline
+AlwaysBreakTemplateDeclarations: Yes
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBinaryOperators: NonAssignment
+BreakBeforeBraces: Attach
+IndentCaseLabels: true
+IndentGotoLabels: false
+IndentPPDirectives: BeforeHash
+# InsertTrailingCommas: Wrapped
+NamespaceIndentation: All
+SpaceBeforeCpp11BracedList: true
+SortIncludes: false
+KeepEmptyLinesAtTheStartOfBlocks: false
