@@ -12,3 +12,5 @@ Reach me at:
 * 45gfg9@gmail.com
 
 Twitter [@45gfg9](https://twitter.com/45gfg9)
+
+[![45gfg9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=45gfg9&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
