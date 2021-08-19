@@ -5,7 +5,7 @@ Hi! I'm what Garbage Collector looking for. :D
 A student, teen, software and hardware tinkerer, far from pro.
 Want to be a full stack dev!
 
-If my code got you vomit, I'm deeply sorry.
+If my code gets you vomit, I'm deeply sorry.
 
 Reach me at:
 * 45gfg9@45gfg9.net
@@ -13,4 +13,4 @@ Reach me at:
 
 Twitter [@45gfg9](https://twitter.com/45gfg9)
 
-[![45gfg9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=45gfg9&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![45gfg9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=45gfg9&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
