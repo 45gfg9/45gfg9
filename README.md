@@ -5,6 +5,8 @@ Hi! I'm what Garbage Collector looking for. :D
 A student, teen, software and hardware tinkerer, far from pro.
 Want to be a full stack dev!
 
+Coping with all the reality things, can't really do some commits right now.
+
 If my code gets you vomit, I'm deeply sorry.
 
 Reach me at:
