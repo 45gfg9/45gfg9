@@ -15,4 +15,6 @@ Reach me at:
 
 Twitter [@45gfg9](https://twitter.com/45gfg9)
 
+GPG Public Key: [`06A0 0720 6349 B099 178A CC3B 4817 881E BE75 2BC0`](https://github.com/45gfg9.gpg)
+
 [![45gfg9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=45gfg9&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
