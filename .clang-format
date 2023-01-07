@@ -2,14 +2,15 @@ Language: Cpp
 AlignEscapedNewlines: Left
 AllowShortBlocksOnASingleLine: Empty
 AllowShortFunctionsOnASingleLine: Inline
+PenaltyBreakComment: 10
 AlwaysBreakTemplateDeclarations: Yes
-BinPackArguments: false
-BinPackParameters: false
+BinPackArguments: true
+BinPackParameters: true
 BreakBeforeBinaryOperators: NonAssignment
 BreakBeforeBraces: Attach
+ColumnLimit: 120
 IndentCaseLabels: true
 IndentGotoLabels: false
-IndentPPDirectives: BeforeHash
 # InsertTrailingCommas: Wrapped
 NamespaceIndentation: All
 SpaceBeforeCpp11BracedList: true

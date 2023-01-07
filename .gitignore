@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Vim
+.*.swp
+
+# Python
+__pycache__
+.mypy_cache
+
+# Gradle Dist
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
