@@ -14,6 +14,8 @@ let skip_defaults_vim=1
 
 syntax on
 
+colorscheme slate
+
 set tabstop=4
 set expandtab
 
@@ -24,8 +26,6 @@ set autoindent
 set smartindent
 
 set number
-
-colorscheme slate
 
 set ruler
 

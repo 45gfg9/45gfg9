@@ -2,7 +2,7 @@
 
 :wave: Hi! I'm what Garbage Collector looking for. :D
 
-A student, teen, software and hardware tinkerer, far from pro.
+An undergraduate, software and hardware tinkerer, far from pro.
 Want to be a full stack dev! (Who knows)
 
 Coping with all the reality things, can't really do some commits right now.

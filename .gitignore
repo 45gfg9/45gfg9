@@ -17,3 +17,5 @@ __pycache__
 gradle/wrapper/gradle-wrapper.jar
 gradlew
 gradlew.bat
+
+*venv
